@@ -2,3 +2,6 @@
 I Watched the videos supplied on Discord.
 One of which was on GitHub and how to create and merge branches.
 I found that video extremely helpful.
+
+11/28/24
+I completed the binary search tree basics coding assignment
