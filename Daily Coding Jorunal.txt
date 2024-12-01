@@ -5,3 +5,6 @@ I found that video extremely helpful.
 
 11/28/24
 I completed the binary search tree basics coding assignment
+
+11/30/24
+I went over sorting methods and whiteboarding tips.
