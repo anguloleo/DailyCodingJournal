@@ -8,3 +8,9 @@ I completed the binary search tree basics coding assignment
 
 11/30/24
 I went over sorting methods and whiteboarding tips.
+
+12/17/24
+I have spend a lot of time catching up. I am almost caught up 
+
+12/19/24
+I have gone through the deployment part of website content
