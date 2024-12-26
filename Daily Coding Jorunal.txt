@@ -14,3 +14,7 @@ I have spend a lot of time catching up. I am almost caught up
 
 12/19/24
 I have gone through the deployment part of website content
+
+12/25/24
+Today I started covering the material on HTTP
+Started reading on requests
