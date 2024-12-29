@@ -21,3 +21,7 @@ Started reading on requests
 
 12/27/24
 Today i spent the day learning about HTTP requests and responses
+
+12/28/24
+Today i kept learning about http responses and learned about endpoints
+Currently im working on the endpoints practice.
