@@ -25,3 +25,7 @@ Today i spent the day learning about HTTP requests and responses
 12/28/24
 Today i kept learning about http responses and learned about endpoints
 Currently im working on the endpoints practice.
+
+12/29/24
+Today I practiced with http endpoints and started reading about creating my
+own server. 
