@@ -33,3 +33,6 @@ own server.
 12/30/24
 I was not able to do any coding today as i spent the day packing.
 I am moving and had to take time off from coding to do so. 
+
+12/31/24
+Today I worked on creating a server, handling requests and responses, and parsing the body or requests.
