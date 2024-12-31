@@ -29,3 +29,7 @@ Currently im working on the endpoints practice.
 12/29/24
 Today I practiced with http endpoints and started reading about creating my
 own server. 
+
+12/30/24
+I was not able to do any coding today as i spent the day packing.
+I am moving and had to take time off from coding to do so. 
