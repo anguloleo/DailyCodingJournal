@@ -36,3 +36,7 @@ I am moving and had to take time off from coding to do so.
 
 12/31/24
 Today I worked on creating a server, handling requests and responses, and parsing the body or requests.
+
+1/1/24
+I started off the new year not so good as I didnt get to do much coding today.
+Tomorrow I will have to go into double time with this. 
