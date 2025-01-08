@@ -55,3 +55,9 @@ up Monday morning.
 1/6/25
 Finishing off week 15, i did alot of hands on coding with
 creating a server and making sure all parts of it worked.
+
+1/7/25
+Learned about Promises. The shear amount of material feels like a 
+weeks worth or learning. It might juts be bloat and I may have
+better luck understaning by googling it then by App academys
+materail. We only have 1 day to learn so thats interesting. 
