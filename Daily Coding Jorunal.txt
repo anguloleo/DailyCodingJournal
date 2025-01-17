@@ -98,3 +98,6 @@ This is incredibly time consuming. Again I dont know how everyone else is doing 
 1/15/25
 I was not able to get any reading/coding in today. I had to work at sistes office and help with family things.
 I have tomorrow to double up on everything. I do not have to work so I will hopefully have time to complete 2 days worth. 
+
+1/16/25
+Today I continued working on the pratices for week 17. We covered alot of creating elements. I wasntched additional material on how to crete and reference elements from HTML.
