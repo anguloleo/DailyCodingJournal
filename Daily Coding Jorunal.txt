@@ -105,3 +105,6 @@ Today I continued working on the pratices for week 17. We covered alot of creati
 1/17/25
 I had to go into the office today so I was not able to get much coding done. 
 Ill be spding saturnday and sunday working on practice coding.
+
+1/18/25
+I worked on create/remove elements and add/remove event listeners today. I want to work on the long practice but know i wont be able to cover the rest of the maerial if I do so. I will attempt to skim through the material and work on the practices tomrorow. 
